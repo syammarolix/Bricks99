@@ -11,7 +11,6 @@
 	</parent>
 	<groupId>com.marolix</groupId>
 	<artifactId>Bricks99</artifactId>
-	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Bricks99</name>
 	<description>this is an online platform to list the properties for buying
